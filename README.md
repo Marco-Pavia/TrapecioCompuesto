@@ -48,8 +48,8 @@ Implementación de métodos de **integración numérica** con criterio de paro i
 
 1. Clona el repositorio (o descarga los archivos en una misma carpeta):
    ```bash
-   git clone https://github.com/Marco-Pavia/IntegracionNumerica-MarcoPavia.git
-   cd IntegracionNumerica-MarcoPavia
+   git clone https://github.com/Marco-Pavia/TrapecioCompuesto.git
+   cd TrapecioCompuesto
    ```
 
 2. Compila todos los archivos del proyecto:
