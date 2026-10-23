@@ -103,5 +103,3 @@ n = 4 | Integral = 2.6666666666666665 | Error = 0.0
 
 Resultado final obtenido: 2.6666666666666665
 ```
-
-> **Nota:** La integral exacta de $f(x) = x^2$ en el intervalo $[0, 2]$ es $\frac{8}{3} \approx 2.666666...$. El método de Simpson 1/3 alcanza el resultado exacto con $n = 2$ debido a que integra polinomios de grado $\le 3$ sin error de aproximación polinomial.
