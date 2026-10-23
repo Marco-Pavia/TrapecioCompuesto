@@ -5,7 +5,9 @@ Implementación de métodos de **integración numérica** con criterio de paro i
 - **Trapecio Compuesto** (`TrapecioCompuesto`): Aproximación mediante suma de trapecios en subintervalos.
 - **Simpson 1/3 Compuesto** (`SimpsonCompuesto`): Aproximación mediante parábolas de segundo grado, reutilizando la función $f(x)$ y el cálculo del paso $h$ de la clase `TrapecioCompuesto`.
 
-**Autor:** Marco Antonio Pavia Flores  
+**Autor:** Marco Antonio Pavia Flores
+**Docente** Victor Hugo Vasquez Herrera
+**Actividad** Tarea 1 Unidad 4
 **Lenguaje de programación:** Java (JDK 17 o superior recomendado)
 
 ---
